@@ -1,4 +1,4 @@
-# Kernel ERP Documentation
+# Kernel ERP Documentation 
 
 *Working name: "Kernel". Replace it with your real project name everywhere. Status: early preview, not for production. Version 0.1 (draft).*
 
