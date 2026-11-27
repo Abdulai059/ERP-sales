@@ -1,5 +1,5 @@
 # Kernel ERP Documentation 
-
+ 
 *Working name: "Kernel". Replace it with your real project name everywhere. Status: early preview, not for production. Version 0.1 (draft).*
 
 This documentation covers an open source, modular business system for hotels, restaurants, and shops. Each business runs in its own private database and turns on only the apps it needs.
